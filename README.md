@@ -10,6 +10,10 @@ However, with a change to one line of code, you can use Chrome or Internet Explo
 
 ==================================
 
+WARNING:  Out of the Box, this project contains a test which recursively goes through the specified site's domain and tests every link it finds.  If this will cause loss of data or changes to data on your website, disable the test before running.
+
+==================================
+
 STEP 1:  Download the Repository
 
 STEP 2:  Open the .sln file in Visual Studio
